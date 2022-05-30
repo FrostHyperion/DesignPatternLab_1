@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "m540EV3f0kPCmD9x32fStDd1h1xic+QsAnoA7RVzh/r3Y2viG9G/lPw3ojwn26h6CoiJ6FZ4BHc8Bd+5aoIZ/Q==",
+  "dgSpecHash": "xZACYIpO9sWKgrvhcPdR/Ydd/aQo/2P4HFl4GuoYB1gQQ46O9EFgEMaSq3JAeL70zhXTEzQ5KII5Wau/8vvJVw==",
   "success": true,
   "projectFilePath": "C:\\Users\\sahil\\source\\repos\\UnitTesting\\DesignPattern-Lab1\\DesignPattern-Lab1\\DesignPattern-Lab1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sahil\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\sahil\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\sahil\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\sahil\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\sahil\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\sahil\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sahil\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -8,15 +8,15 @@ namespace DesignPattern_Lab1
 {
     public class TwentyFivePercentDiscount :  Discount
     {
-        public Calculator Calculator;
-         public string GetDescription()
+
+        public string GetDescription()
         {
             return "25%";
         }
 
         public double GetDiscount()
         {
-            return Calculator.basePrice * 0.75;
+            return 0.75;
         }
     }
 }

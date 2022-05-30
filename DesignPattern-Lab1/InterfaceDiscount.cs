@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace DesignPattern_Lab1
 {
-    
     public  interface Discount
     {
         public string GetDescription();

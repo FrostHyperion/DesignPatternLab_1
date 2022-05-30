@@ -7,11 +7,8 @@ using System.Threading.Tasks;
 namespace DesignPattern_Lab1
 {
 
-    public class DoubleAmount : Calculator
+    public class DoubleAmount : Discount
     {
-        public Calculator Calculator;
-
-
         public string GetDescription()
         {
             return "doublePrice";
@@ -19,7 +16,7 @@ namespace DesignPattern_Lab1
 
         public double GetDiscount()
         {
-            return Calculator.basePrice * 2;
+            return 2;
         }
     }
 }

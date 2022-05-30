@@ -6,19 +6,18 @@ using System.Threading.Tasks;
 
 namespace DesignPattern_Lab1
 {
-    internal class NoChange : Calculator
+    internal class NoChange : Discount
     {
-        public Calculator Calculator;
 
 
         public string GetDescription()
         {
-            return "basePrice";
+            return "no change";
         }
 
         public double GetDiscount()
         {
-            return Calculator.basePrice ;
+            return 0;
         }
     }
 }
