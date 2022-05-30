@@ -1,0 +1,16 @@
+C:\Users\sahil\source\repos\UnitTesting\DesignPattern-Lab1\DesignPattern-Lab1\obj\Debug\net6.0\DesignPattern-Lab1.csproj.AssemblyReference.cache
+C:\Users\sahil\source\repos\UnitTesting\DesignPattern-Lab1\DesignPattern-Lab1\obj\Debug\net6.0\DesignPattern-Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahil\source\repos\UnitTesting\DesignPattern-Lab1\DesignPattern-Lab1\obj\Debug\net6.0\DesignPattern-Lab1.AssemblyInfoInputs.cache
+C:\Users\sahil\source\repos\UnitTesting\DesignPattern-Lab1\DesignPattern-Lab1\obj\Debug\net6.0\DesignPattern-Lab1.AssemblyInfo.cs
+C:\Users\sahil\source\repos\UnitTesting\DesignPattern-Lab1\DesignPattern-Lab1\obj\Debug\net6.0\DesignPattern-Lab1.csproj.CoreCompileInputs.cache
+C:\Users\sahil\source\repos\UnitTesting\DesignPattern-Lab1\DesignPattern-Lab1\bin\Debug\net6.0\DesignPattern-Lab1.exe
+C:\Users\sahil\source\repos\UnitTesting\DesignPattern-Lab1\DesignPattern-Lab1\bin\Debug\net6.0\DesignPattern-Lab1.dll.config
+C:\Users\sahil\source\repos\UnitTesting\DesignPattern-Lab1\DesignPattern-Lab1\bin\Debug\net6.0\DesignPattern-Lab1.deps.json
+C:\Users\sahil\source\repos\UnitTesting\DesignPattern-Lab1\DesignPattern-Lab1\bin\Debug\net6.0\DesignPattern-Lab1.runtimeconfig.json
+C:\Users\sahil\source\repos\UnitTesting\DesignPattern-Lab1\DesignPattern-Lab1\bin\Debug\net6.0\DesignPattern-Lab1.dll
+C:\Users\sahil\source\repos\UnitTesting\DesignPattern-Lab1\DesignPattern-Lab1\bin\Debug\net6.0\DesignPattern-Lab1.pdb
+C:\Users\sahil\source\repos\UnitTesting\DesignPattern-Lab1\DesignPattern-Lab1\obj\Debug\net6.0\DesignPattern-Lab1.dll
+C:\Users\sahil\source\repos\UnitTesting\DesignPattern-Lab1\DesignPattern-Lab1\obj\Debug\net6.0\refint\DesignPattern-Lab1.dll
+C:\Users\sahil\source\repos\UnitTesting\DesignPattern-Lab1\DesignPattern-Lab1\obj\Debug\net6.0\DesignPattern-Lab1.pdb
+C:\Users\sahil\source\repos\UnitTesting\DesignPattern-Lab1\DesignPattern-Lab1\obj\Debug\net6.0\DesignPattern-Lab1.genruntimeconfig.cache
+C:\Users\sahil\source\repos\UnitTesting\DesignPattern-Lab1\DesignPattern-Lab1\obj\Debug\net6.0\ref\DesignPattern-Lab1.dll
